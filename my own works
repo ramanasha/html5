@@ -1,0 +1,138 @@
+<!doctype html>
+<html>
+<head>
+  <title>My first web page</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+
+
+
+
+<div>
+<center><h2>Uki Student</h2></center>
+<center>
+  <form style="background-color:lightblue;width:700px;text-align:left" target="_blank" onsubmit="try {return window.confirm(&quot;You are submitting information to an external page.\nAre you sure?&quot;);} catch (e) {return false;}">
+    <fieldset>
+      <legend>Uki.Life</legend>
+First Name:
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+ <input type="text" name="fn">
+<br><br>
+Last Name:
+ &amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+ <input type="text" name="ln">
+<br><br>
+Reg No:
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;<wbr>nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+<input type="text" name="rn">
+<br><br>
+Date of Birth:&amp;nbsp <input type="text" name="dob">
+<br><br>
+Gender:
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;<wbr>nbsp&amp;nbsp&amp;nbsp
+<input type="radio" name="gender">Male <input type="radio" name="gender">Female <br>
+<br>
+Favourite Subjects:
+<br>
+<input type="checkbox" name="Eng">English <input type="checkbox" name="pc">Personal Coaching <input type="checkbox" name="Web">Web Devlopment <input type="checkbox" name="pro">Programming
+<br><br>
+Feedback:<br>
+&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;<wbr>nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;<wbr>nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp
+<textarea name="feedback" rows="10" cols="40">
+</textarea>
+<br>
+<br><center>
+<input type="reset" value="Reset">
+<input type="submit" value="Submit">
+</center>
+</fieldset>
+</form>
+</center>
+</div>
+
+
+<h1>welcome to uki </h1>
+<h2>welcome to uki2 </h2>
+<h3>welcome to uki3 </h3>
+<p>
+  <img src="stock-photo-magnifying-optical-glass-with-gears-icon-and-web-development-word-on-digital-background-d-render-131243162.jpg" alt=web developement>
+
+<img src="images.jpeg">
+<img src="images.jpeg" width="500" hight="350">
+
+</p>
+<p>
+  hi eveyone the html head element contain meta details
+  this is my first web page
+
+
+
+  <p>
+    The most interesting new HTML5 elements are:
+
+New semantic elements like <header>, <footer>, <article>, and <section>.
+
+New attributes of form elements like number, date, time, calendar, and range.
+
+New graphic elements: <svg> and <canvas>.
+
+New multimedia elements: <audio> and <video>.
+  <p>New HTML5 API's (Application Programming Interfaces)
+    <p>  <p><table style="width:100%">
+      <style>
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<table style="width:100%"
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+
+  <tr>
+<tr>
+<th>name</th>
+<th>age</th>
+<th>city</th>
+</tr>
+<tr>
+<td>Abi</td>
+<td>20</td>
+<td>Jaffna</td>
+</tr>
+<tr>
+<td>Ravi</td>
+<td>30</td>
+<td>Nallur</td>
+</tr>
+
+The most interesting new API's in HTML5 are:
+
+    <p style="color:red;">HTML Geolocation<br>
+    HTML Drag and Drop<br>
+    HTML Local Storage<br>
+    HTML Application Cache<br>
+    HTML Web Workers<br>
+    HTML SSE<br>
+
+    <p> quick view !other links<br>
+      <a href="http://www.uki.life"><b><i>UKi life<i><b></a><br>
+          <a href="http://www.google.com"><b><i>google<i><b></a>
+            <a href="http://www.gmail.com"><b><i>cheak mail<i><b></a>
+
+</p>
+</body>
+</html>
